@@ -141,5 +141,3 @@ This project demonstrates:
 - Knowledge of multiple algorithmic strategies.  
 - Awareness of time/space complexity trade-offs.  
 - Ability to communicate not just *what* the code does, but *why*.  
-
-This README serves as both **technical documentation** and a guide to the interviewer.
